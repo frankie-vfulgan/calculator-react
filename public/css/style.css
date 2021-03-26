@@ -1,0 +1,6 @@
+h1, h2, h3, h4 {
+	height: 200px;
+	background: lightgray;
+	padding: 10px;
+	font-family: arial, sans-serif;
+}

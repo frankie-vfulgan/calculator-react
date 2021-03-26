@@ -1,0 +1,35 @@
+.hi {
+	height: 90px;
+	background-color: lightgray;
+	font-family: 'arial rounded', sans-serif;
+	font-size: 50px;
+	font-weight: solid;
+	text-align: center;
+	border: 1px solid gray;
+	border-left: 0;
+	padding: 10px;
+}
+
+.zero {
+	height: 90px;
+	font-family: 'arial rounded', sans-serif;
+	font-size: 60px;
+	font-weight: solid;
+	text-align: right;
+	background-color: gray;
+	color: white;
+	padding: 5px;
+}
+
+.orange {
+	height: 90px;
+	background-color: orange;
+	color: white;
+	font-family: 'arial rounded', sans-serif;
+	font-size: 50px;
+	font-weight: solid;
+	text-align: center;
+	padding: 10px;
+	border: 1px solid gray;
+	border-right: 0;
+}
